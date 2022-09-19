@@ -5,9 +5,9 @@ for fruit in apple banana ; do
   done
 
 
- i=10
+ i=0
  while [ $i -lt 10 ]; do
    echo i = $i
    i=$((i=i+1))
 done
- 
+
